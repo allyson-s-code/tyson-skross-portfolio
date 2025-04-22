@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "untitled",
+        "medium": "acrylic on raw canvas, stitched, woven",
+        "dimensions": "24\" x 20\"",
+        "date": "2023",
+        "url": "https://res.cloudinary.com/smith-studio/image/upload/v1707425321/allysonsmith/800w/Blue-Weave-Passing-800w_k9dmkc.jpg",
+        "alt": "" 
+    },
+    {
+        "id": "2",
+        "title": "untitled",
+        "medium": "acrylic on raw canvas, felt, stitched, woven",
+        "dimensions": "15\" x 12\"",
+        "date": "2023",
+        "url": "https://res.cloudinary.com/smith-studio/image/upload/v1707424392/allysonsmith/800w/Moon-frame-lt-800w_npuemy.jpg",
+        "alt": "A blue acrylic, abstract painting with a dark blue rectangle of felt centered and cutout blue and orange moon shapes stitched on top"
+     }
+]
