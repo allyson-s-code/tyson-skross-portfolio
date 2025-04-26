@@ -1,12 +1,25 @@
 body {
+    width: 100%;
+    height: 100%;
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
+    background-color: #ffffff;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    align-items: center;
     height: 100vh;
-  }
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: .875rem;
+    color: #666666;
+}
+
+a {
+    color: inherit;
+}
   
 header {
     width: 100%;
@@ -18,19 +31,77 @@ header {
 
 .title {
     width: 90%; 
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5rem;
     display: flex;
     justify-content: flex-end;
 }
 
+.main-container {
+    width: 90%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    align-items: center;
+    align-items: end;
+}
+
 #image-container {
+    max-width: 500px;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 2rem 0;
 }
 
 #image-container img {
     max-width: 90%;
     max-height: 90vh;
     object-fit: contain;
+}
+ 
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 2rem;
   }
-  
+
+li {
+    text-align: right;
+}
+
+  @media (min-width: 1000px) {
+    body {
+        max-width: 1600px;
+    }
+    .main-container {
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between; 
+        align-items: flex-end; 
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+
+    #image-container {
+        max-width: 800px;
+    }
+
+    .info-container {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        padding-bottom: 2rem;
+    }
+
+    
+  }

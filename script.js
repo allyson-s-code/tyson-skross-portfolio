@@ -11,3 +11,7 @@ fetch('data.json')
   .catch(error => {
     console.error('Error loading the JSON or image:', error);
   });
+
+var encEmail = "dHlzb25za3Jvc3NAZ21haWwuY29t";
+const form = document.getElementById("contact");
+form.setAttribute("href", "mailto:".concat(atob(encEmail)));
