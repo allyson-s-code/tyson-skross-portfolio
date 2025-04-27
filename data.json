@@ -1,20 +1,147 @@
 [
     {
         "id": "1",
-        "title": "untitled",
-        "medium": "acrylic on raw canvas, stitched, woven",
-        "dimensions": "24\" x 20\"",
-        "date": "2023",
-        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1743796818/TysonSkross_eastern_rain_wftzbj.jpg",
-        "alt": "" 
-    },
+        "title": "Greasy Glasses",
+        "medium": "acrylic, colored pencil and graphite on panel",
+        "dimensions": "9\" x 12\"",
+        "date": "2024",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1745697748/TysonSkross_GreasyGlasses_2024_wiaal1.jpg",
+        "alt": "A textured painting showing a pair of smeared eyeglasses over a dark, greasy-looking surface with brown and green tones."
+     },
     {
         "id": "2",
-        "title": "untitled",
-        "medium": "acrylic on raw canvas, felt, stitched, woven",
-        "dimensions": "15\" x 12\"",
+        "title": "Eastern Rain",
+        "medium": "acrylic and graphite on panel",
+        "dimensions": "16\" x 16\"",
         "date": "2023",
-        "url": "https://res.cloudinary.com/smith-studio/image/upload/v1707424392/allysonsmith/800w/Moon-frame-lt-800w_npuemy.jpg",
-        "alt": "A blue acrylic, abstract painting with a dark blue rectangle of felt centered and cutout blue and orange moon shapes stitched on top"
-     }
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1743796818/TysonSkross_eastern_rain_wftzbj.jpg",
+        "alt": "A painting on light wood with diagonal black slashes across the surface, over a slightly darkened and textured background." 
+    },
+    {
+        "id": "3",
+        "title": "Plinian Eruption",
+        "medium": "acrylic and graphite on panel",
+        "dimensions": "16\" x 16\"",
+        "date": "2023",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1743796818/TysonSkross_plinian_eruption_rw6zdu.jpg",
+        "alt": "An abstract painting on wood showing smoky black marks and smudges against a light brown surface, resembling natural grain patterns." 
+    },
+    {
+        "id": "4",
+        "title": "Fire Carried Under A Wheel 3",
+        "medium": "acrylic, coloredn pencil, and graphite on panel",
+        "dimensions": "10\" x 8\"",
+        "date": "2020",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1743796818/TysonSkross_plinian_eruption_rw6zdu.jpg",
+        "alt": "An abstract wheel structure appears partially submerged in a field of sooty black and scorched red. Marks and smudges suggest a heavy burden carried forward through fire and ruin." 
+    },
+    {
+        "id": "5",
+        "title": "Fire As A Sign",
+        "medium": "acrylic, colored pencil, and graphite on panel",
+        "dimensions": "14\" x 11\"",
+        "date": "2020",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1745698109/TysonSkross_fire_as_a_sign_14x11_screen_ucudzh_jfcoes.jpg",
+        "alt": "An abstract artwork of a broken wheel form engulfed by smoky gray and white textures, with streaks of fire-like marks." 
+    },
+    {
+        "id": "6",
+        "title": "A Wheel Within A Wheel 1",
+        "medium": "acrylic and graphite on panel",
+        "dimensions": "16\" x 16\"",
+        "date": "2019",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1745698064/TysonSkross_eyes_fire2_8x10_kuvaez.jpg",
+        "alt": "A painting showing two rough eye shapes emerging from layered fields of burnt orange and red textures." 
+    },
+    {
+        "id": "7",
+        "title": "Fire Carried Under A Wheel 1",
+        "medium": "acrylic, colored pencil, and graphite on panel",
+        "dimensions": "10\" x 8\"",
+        "date": "2019",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1745698066/TysonSkross_cave_eye1_10x8_s0r2hb.jpg",
+        "alt": "A dark abstract painting featuring a single small eye in the center of a cave-like opening surrounded by gray and black textures." 
+    },
+    {
+        "id": "8",
+        "title": "Fire Carried Under A Wheel 2",
+        "medium": "acrylic, colored pencil, and graphite on panel",
+        "dimensions": "10\" x 18\"",
+        "date": "2019",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1745697746/TysonSkross_cave_eye2_10x8_kktkbu.jpg",
+        "alt": "A single wide-set eye emerges from a textured, cavernous opening. Deep shadows and heavy impasto create an atmosphere of hidden watchfulness, vulnerability, and eroded strength." 
+    },
+    {
+        "id": "9",
+        "title": "A Wheel Within A Wheel 2",
+        "medium": "acrylic, colored pencil, and graphite on carved panel",
+        "dimensions": "12\" x 9\"",
+        "date": "2019",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1745698109/TysonSkross_wheel1_screen_12x9_zeelxn_i7rh2q.jpg",
+        "alt": "A textured abstract painting featuring a central circle with purple and pink drips, layered over a dark background with yellow and black areas." 
+    },
+    {
+        "id": "10",
+        "title": "Looey",
+        "medium": "acrylic and graphite on panel",
+        "dimensions": "24\" x 18\"",
+        "date": "2014",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1745697746/TysonSkross_Looey_18x24_tuweog.jpg",
+        "alt": "A vertical abstract painting suggesting a rough, slumped figure blending into a textured, earth-toned background." 
+    },
+    {
+        "id": "11",
+        "title": "Cover Over",
+        "medium": "archival pigment print mounted on sintra",
+        "dimensions": "15\" x 10\"",
+        "date": "2013",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1743796817/TysonSkross_Losers_coverover_orig_tskr7u.jpg",
+        "alt": "A vertical photographic composition showing a pixelated, reddish-brown terrain with a curved white section at the bottom edge." 
+    },
+    {
+        "id": "12",
+        "title": "Sketch 1",
+        "medium": "graphite and gypsum on panel",
+        "dimensions": "7\" x 5\"",
+        "date": "2013",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1743796816/TysonSkross_Losers_sketch1_2013_orig_xi5t1p.jpg",
+        "alt": "A small painting on wood depicting a rough, dark form resembling a figure, with textured gray, black, and tan surfaces." 
+    },
+    {
+        "id": "13",
+        "title": "Steel",
+        "medium": "graphite on panel",
+        "dimensions": "20\" x 14\"",
+        "date": "2013",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1743796814/TysonSkross_Losers_steel_orig_puzolg.jpg",
+        "alt": "A simple geometric sculpture shaped like a flattened hexagon, painted in textured dark gray on a wood surface." 
+    },
+    {
+        "id": "14",
+        "title": "Sketch 3",
+        "medium": "graphite, acrylic and gypsum on panell",
+        "dimensions": "7\" x 5\"",
+        "date": "2013",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1743796814/TysonSkross_Losers_sketch3_2013_orig_snyslv.jpg",
+        "alt": "A small abstract painting featuring a deep blue and gray cloudy form with sharp black and white geometric shapes at the corners." 
+    },
+    {
+        "id": "15",
+        "title": "Sketch 4",
+        "medium": "Graphite, acrylic and gypsum on panel",
+        "dimensions": "7\" x 5\"",
+        "date": "2013",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1743796814/TysonSkross_Losers_sketch4_2013_orig_kzbn6h.jpg",
+        "alt": "A small abstract painting featuring muted tones of gray, green, and tan, with cloudy textures and worn edges on a rectangular wood surface." 
+    },
+    {
+        "id": "16",
+        "title": "Sign",
+        "medium": "acrylic, ink and graphite on panel",
+        "dimensions": "9\" x 12\"",
+        "date": "2013",
+        "url": "https://res.cloudinary.com/dwz0emhru/image/upload/v1743796816/TysonSkross_Losers_sign_orig_culznn.jpg",
+        "alt": "An abstract painting on wood showing smoky black marks and smudges against a light brown surface, resembling natural grain patterns." 
+    }
+    
 ]
