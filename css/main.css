@@ -64,6 +64,16 @@ header {
     object-fit: contain;
 }
 
+img {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+  }
+  
+  img.loaded {
+    opacity: 1;
+  }
+  
+
 .info-container {
     width: 100%;
     height: auto;
