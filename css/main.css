@@ -26,7 +26,7 @@ header {
     display: flex;
     justify-content: center;
     align-content: center;
-    padding: 1rem 0;
+    padding: 1.5rem 0 1rem 0;
 }
 
 .title {
@@ -42,7 +42,7 @@ header {
 
 .main-container {
     width: 90%;
-    height: 100%;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between; 
@@ -52,6 +52,7 @@ header {
 #image-container {
     width: 100%;
     max-width: 500px;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -60,11 +61,11 @@ header {
 
 #image-container img {
     width: 100%;
-    max-height: 90vh;
+    max-width: 90vw;
     object-fit: contain;
 }
 
-img {
+/*img {
     opacity: 0;
     transition: opacity 1s ease-in-out;
   }
@@ -72,7 +73,7 @@ img {
   img.loaded {
     opacity: 1;
   }
-  
+*/  
 
 .info-container {
     width: 100%;
@@ -98,12 +99,22 @@ li {
         max-width: 1400px;
         font-size: .875rem;
     }
+
+    header {
+        padding: 0;
+    }
+
+    .title {
+        padding: 2rem 0 0 0;
+
+    }
     .main-container {
-        height: auto;
+        height: 100vh;
         display: flex;
         flex-direction: row;
         justify-content: space-between; 
         align-items: flex-end; 
+        padding-bottom: 2rem;
     }
 
     .title {
@@ -112,6 +123,11 @@ li {
 
     #image-container {
         max-width: 800px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center; 
+        align-items: center; 
     }
 
     .info-container {
