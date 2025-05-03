@@ -48,7 +48,7 @@ fetch('data.json')
   console.error('Error loading the JSON or image:', error);
 });
 
-var encEmail = "dHlzb25za3Jvc3NAZ21haWwuY29t";
+var encEmail = "dHNrcm9zc0BnbWFpbC5jb20=";
 const form = document.getElementById("contact");
 form.setAttribute("href", "mailto:".concat(atob(encEmail)));
 
